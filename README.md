@@ -1,4 +1,4 @@
-Basic implementation of Conway's Game of Life. 
+Basic implementation of Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 
 Initializes a random grid of desired size and number of iterations with 1, or 0.1 = Occupied 
 0 = Unoccupied
