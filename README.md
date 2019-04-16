@@ -1,9 +1,10 @@
 Basic implementation of Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 
-Initializes a random grid of desired size and number of iterations with 1, or 0.1 = Occupied 
-0 = Unoccupied
+Initializes a random grid of desired size and number of iterations with 1, or 0, where: 
 
-Contains the files:
+1 = Occupied, 0 = Unoccupied
+
+The repository contains the following files:
 
 1. gameOfLife.cu  
 2. plot_grid.m
